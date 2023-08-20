@@ -1,0 +1,261 @@
+/* #abc{
+    border: 2px solid black;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.hi1{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+} */
+/* #ab{
+    border: 2px solid black;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.ch1{
+    border: 2px solid blue;    
+} */
+
+#ab{
+    /* border: 2px solid red; */
+    height: 500px;
+    background-image: linear-gradient( rgba(0,0,0,0.9),rgba(0,0,0,0.9),rgba(0,0,0,0.9)), url("./netflixa1.jpg");
+    display: flex;
+    justify-content: space-around;
+
+}
+#cd{
+    /* border: 2px solid wheat; */
+    height: 50px;
+    color: white;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#hi{
+    /* border: 1px solid red; */
+    height: 60px;
+     fill: red;
+    width: 80px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+#hi1{
+    /* border: 2px white solid;  */
+    height:40px;
+    width:150px;
+    fill: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* padding-right: 3rem; */
+}
+#hey{
+    /* border: 1px solid black; */
+}
+
+#btn{
+    background-color: red;
+    border-radius: 0.4rem;
+    
+}
+
+#sel{
+    background-color: transparent;
+    /* width: 30px; */
+    color: white;
+}
+#li{
+    position: absolute;
+    top: 150px;
+    width: 600px;
+    color: white;   
+ 
+}
+#hm{
+    background-color: red;
+    color: white;
+}
+#hm1{
+    background-color: transparent;
+}
+#n1{
+    /* border: 3px solid black; */
+    height: 500px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+#d1{
+  color: white;   
+}
+#n2{
+    /* border: 3px solid black; */
+    height: 500px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+#d2{
+    color: white;   
+  }
+
+  #n3{
+    /* border: 3px solid black; */
+    height: 500px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+
+
+  #d3{
+    color: white;   
+  }
+
+  #n4{
+    /* border: 3px solid black; */
+    height: 500px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content:space-around;
+}
+#d4{
+    color: white;   
+  }
+  #p1{
+    /* border: 3px solid black; */
+    height: 700px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    justify-content:center;
+}
+#p2{
+    /* border: 1px solid white; */
+    width: ;
+    height: ;
+    color: white;
+    background-color: rgb(9, 9, 17);
+    display: inline-block;
+    align-items: center;
+    justify-content: center;   
+}
+#l1{
+    /* border: 1px solid white; */
+    background-color: black;
+    height: 90px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    /* position: fixed; */
+    
+    
+}
+.cl{
+    height: 100px;
+    color: white;
+
+
+}
+#p3{
+    /* border: 1px solid white; */
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#f1{
+     
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(1, 1, 27);
+}
+#ff{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#hoo{
+    background-color: red;
+    color: white;
+    border-radius: 0.2rem;
+
+    
+}
+#ho{
+    background-color: transparent;
+    border-radius: 0.2rem;
+}
+#lo{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+#lii{
+    display: flex;
+    justify-content: ;
+    align-items: center;
+}
+#fe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(207, 190, 190);
+}
+#hey{
+    outline-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
