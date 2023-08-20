@@ -1,0 +1,387 @@
+#hi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#r1{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r2{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+#r3{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r4{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black ;
+}
+#r5{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+   
+}
+#r6{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+#r7{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r8{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+#r9{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r10{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r11{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black ;
+}
+#r12{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+
+}
+#r13{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r14{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r15{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+#r16{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r17{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r18{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+
+}
+#r19{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r20{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r21{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r22{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r23{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+
+}
+#r24{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r25{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r26{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r27{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r28{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r29{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r30{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+   
+}
+#r31{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r32{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r33{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r34{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r35{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r36{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r37{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r38{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r39{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r40{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r41{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r42{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r43{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r44{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r45{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r46{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r47{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r48{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r49{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r50{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r51{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r52{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r53{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r54{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r55{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+    
+}
+#r56{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r57{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r58{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r59{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r60{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r61{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r62{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+#r63{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color:black ;
+}
+#r64{
+    /* border: 1px solid black; */
+    height: 100px;
+    width: 100px;
+}
+
